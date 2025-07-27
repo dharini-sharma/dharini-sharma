@@ -1,5 +1,6 @@
 Hi, I'm Dharini Sharma 👋
 About Me
+
 Data Scientist | AI Researcher | Cybersecurity Enthusiast
 
 Passionate about pushing the boundaries of anomaly detection and generative AI applications. Currently exploring novel approaches in transformer-enhanced variational autoencoders for fraud detection with research publication potential. Experienced in end-to-end ML pipeline development, from data engineering to production deployment.
