@@ -2,7 +2,7 @@
 
 ## About Me
 
-**Data Scientist | AI Researcher | Cybersecurity Enthusiast**
+**Aspiring Data Scientist | AI Researcher | Cybersecurity Enthusiast**
 
 Passionate about pushing the boundaries of anomaly detection and generative AI applications. Currently exploring novel approaches in transformer-enhanced variational autoencoders for fraud detection with research publication potential. Experienced in end-to-end ML pipeline development, from data engineering to production deployment.
 
@@ -15,8 +15,9 @@ Passionate about pushing the boundaries of anomaly detection and generative AI a
 ### 🔬 **Advanced Fraud Detection: VAE vs Transformer-Enhanced VAE**
 **Research-Grade Anomaly Detection with Publication Potential**
 
-- **Innovation:** Novel comparative analysis of traditional VAE vs transformer-embedded VAE architectures for financial fraud detection
+- **Innovation:** Novel comparative analysis of traditional VAE vs transformer-embedded VAE architectures for financial fraud detection using PaySim dataset and extending the methodology to the IEEE dataset.
 
+  
 - **Methodology:**
   - Trained VAE exclusively on non-fraudulent data to establish normal behavior patterns
   - Implemented transformer embeddings to capture complex sequential relationships
@@ -28,7 +29,8 @@ Passionate about pushing the boundaries of anomaly detection and generative AI a
 
 - **Skills:** PyTorch, Transformer Architecture, Variational Autoencoders, Research Methodology, Statistical Analysis
 
-[🔗 GitHub Repository](https://github.com/dharini-sharma/Fraud-Detection-using-Transformer-Enhanced-VAE.git) | **Status:** Preparing for publication
+[🔗 GitHub Repository](https://github.com/dharini-sharma/Fraud-Detection-using-Transformer-Enhanced-VAE.git) | **Status:** Exploring further and preparing for publication
+
 
 ### 🛡️ **Real-World DDoS Attack Detection Dataset**
 **Cybersecurity Data Engineering & Open Source Contribution**
