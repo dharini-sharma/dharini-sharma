@@ -115,7 +115,6 @@ Passionate about pushing the boundaries of anomaly detection and generative AI a
 - [GitHub](https://github.com/dharini-sharma)
 - [LinkedIn](https://www.linkedin.com/in/dharini-sharma-l-a-6a60b6292/)
 - [Credly](https://www.credly.com/users/dharini-sharma-l-a)
-- [Resume](https://drive.google.com/file/d/1iDCqpEvCssuNx8YkCC_P5x468KV8tSsZ/view?usp=drive_link)
 
 
 *Open to collaboration opportunities in research, industry projects, and cutting-edge AI applications.*
